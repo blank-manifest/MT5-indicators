@@ -124,9 +124,11 @@ This is the same concept as HTF Lock — you trade lower for entries, but see st
 A ready-to-use settings file `smc.set` is included in this folder. It contains the configuration shown in the preview above — clean monochrome style with key SMC elements active.
 
 **To load it:**
-1. Attach `SMC.ex5` to a chart
-2. In the indicator inputs dialog, click the **Load** button (floppy disk icon)
-3. Navigate to where you saved `smc.set` and open it
+1. Open MT5 → Navigator → Indicators → find `SMC`
+2. Drag it onto any chart
+3. In the indicator inputs dialog, click the **Load** button (floppy disk icon)
+4. Navigate to where you saved `smc.set` and open it
+5. Click **OK**
 
 ---
 
